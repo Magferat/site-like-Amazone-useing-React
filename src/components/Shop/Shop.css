@@ -1,0 +1,31 @@
+input{
+    
+    width: 900px;
+    height: 45px;
+    border-radius: 5px;
+    border: none;
+    
+}
+.input{
+    background-color: rgba(0, 0, 0, 0.507);
+    padding: 10px; 
+    text-align: center;
+}
+
+.shop{
+    display: grid;
+    grid-template-columns: 4fr 3fr;
+ float: right;
+
+    
+}
+.products{
+    border-right: 1px dotted gray;
+    /* margin-right: 50px; */
+    margin-left: 100px;
+    
+}
+.memo{
+text-align: center;
+float: left;
+}

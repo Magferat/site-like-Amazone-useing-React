@@ -1,0 +1,17 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid gainsboro;
+    
+    padding: 10px;
+    /* margin-right: 100px; */
+    float: left;
+}
+.info{
+    margin-right: 15px;
+}
+.btn{
+    width: 300px;
+    border-color: gray;
+    padding: 5px;
+    border-radius: 4vh;
+}
